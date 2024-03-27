@@ -1,0 +1,15 @@
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Наталья\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования (лекции)\01_CSHARP\Lesson1\Task1\obj\Debug\net7.0\ref\Task1.dll
